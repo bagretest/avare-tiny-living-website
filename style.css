@@ -77,7 +77,7 @@
             width: 55px;
             height: 55px;
             background:
-            url('Imagens/IdView/avare_dna_branco.png') center/60% no-repeat,
+            url('imagens/idview/avare_dna_branco.png') center/60% no-repeat,
             var(--backgrund-blue);
             border-radius: 50%;
             background-size: 50px 50px;
