@@ -48,18 +48,21 @@ Site institucional do meu projeto acadêmico **Avaré Tiny Living**, que propõe
 
 As imagens utilizadas são de autoria da equipe do projeto e estão localizadas em [`Imagens/`](Site%20Avar%C3%A9/Imagens/).
 
-## 👥 Equipe
+## 👥 Equipe do projeto
 
+Arquitetos (responsáveis pela criação da tiny house):
 - Julia Silva
 - Pedro Nogueira
 - Pedro Santana
 - Maria Fernandes
 - Gabriela Teotônio
+
+Designers (Responsáveis pela criação da identidade visual):
 - Gabriel Marcelino
 - Matheus Santos
 - Matheus Lima
 
-Projeto desenvolvido para USJT SBC - Arquitetura e Urbanismo.
+Projeto desenvolvido para USJT SBC - Design e Arquitetura e Urbanismo em conjunto.
 
 ## 📄 Licença
 
