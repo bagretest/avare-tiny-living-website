@@ -1,6 +1,6 @@
 # Avaré Tiny Living
 
-Site institucional do projeto **Avaré Tiny Living**, que propõe uma nova forma de viver em harmonia com a natureza através de tiny houses sustentáveis. O site apresenta o conceito do projeto, galeria de imagens, informações de contato e uma calculadora interativa de investimento.
+Site institucional do meu projeto acadêmico **Avaré Tiny Living**, que propõe uma nova forma de viver em harmonia com a natureza através de tiny houses sustentáveis. O site apresenta o conceito do projeto, galeria de imagens, informações de contato e uma calculadora interativa de investimento.
 
 ## 📋 Funcionalidades
 
